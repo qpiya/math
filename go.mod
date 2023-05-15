@@ -1,1 +1,2 @@
-module github.com/qpiya/math
+module math
+go 1.20
